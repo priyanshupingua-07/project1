@@ -27,4 +27,4 @@ def calculator():
                     result = num1 / num2
                     print("The result is: {result}")
                 else:
-                    print("Invalid input)"
+                    print("Invalid input")
